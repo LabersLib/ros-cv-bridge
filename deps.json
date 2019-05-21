@@ -1,5 +1,5 @@
 {
-    "repo": "DancerDeps/ros-cv-bridge",
+    "repo": "ZJLab/ros-cv-bridge",
     "name": "cv_bridge",
     "workspace": "lib",
     "build": [],
