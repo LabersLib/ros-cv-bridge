@@ -1,5 +1,5 @@
 {
-    "repo": "ZJLabers/ros-cv-bridge",
+    "repo": "LabersLib/ros-cv-bridge",
     "name": "cv_bridge",
     "workspace": "lib",
     "build": [],
